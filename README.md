@@ -5,30 +5,21 @@ Senior Full Stack Web Developer | Laravel, PHP, React, Vue.js | SaaS & ERP Syste
 
 Full Stack Web Developer with hands-on experience building SaaS platforms, ERP systems, and business-critical web applications. Specialized in Laravel and modern JavaScript frameworks with strong expertise in system architecture, database design, and scalable multi-tenant applications. Proven ability to deliver production-grade systems used for real business operations.
 
+<br />
 
-🔑 Core Skills
+🛠 Tech Stack
 
-Languages & Frameworks
+Frontend: HTML5, CSS3, JavaScript, React.js, Vue.js
 
-PHP, Laravel, JavaScript (ES6+), React.js, Vue.js, HTML5, CSS3
+Backend: PHP, Laravel
 
-Databases
+Databases: MySQL, PostgreSQL, SQLite
 
-MySQL, PostgreSQL, SQLite
+Architecture: SaaS, ERP, MVC, REST APIs, RBAC, Authentication & Authorization
 
-Architecture & Concepts
+Tools: Git, GitHub, Apache, Nginx, Linux
 
-SaaS Architecture, ERP Systems, MVC, REST APIs, Multi-Tenancy, RBAC, Authentication & Authorization, Queue Jobs, Cron Jobs, Caching, System Optimization
-
-DevOps & Tools
-
-Git, GitHub, Apache, Nginx, Linux Server Deployment, CI/CD Basics
-
-Business Domains
-
-Hotel Management Systems, Pharmacy ERP, Booking Systems, Payment Systems, Admin Dashboards, Business Automation
-
-
+<br />
 🏆 Professional Experience Highlights
 
 - Designed and developed SaaS-based Hotel Management System supporting multi-hotel operations
@@ -43,9 +34,10 @@ Hotel Management Systems, Pharmacy ERP, Booking Systems, Payment Systems, Admin 
 
 - Implemented business workflows: invoicing, reservations, payments, and reporting
 
-
+<br />
 🚀 Featured Projects (Live)
 
+<br />
 🏨 Hotel Management System (SaaS) — Laravel, MySQL/PostgreSQL
 
 🔗 Live: http://biplab.intelsofts.com/hotel_management
@@ -74,6 +66,7 @@ Key Features & Responsibilities:
 Business Value:
 Enables hotels to manage operations digitally, reduce manual processes, and centralize reporting.
 
+<br />
 💊 Pharmacy Management ERP — Core PHP, MySQL
 
 🔗 Live: http://biplab.intelsofts.com/pharmacy
@@ -102,6 +95,7 @@ Key Features & Responsibilities:
 Business Value:
 Automates pharmacy operations, improves inventory accuracy, and increases operational efficiency.
 
+<br />
 ⚛️ Pharmacy Frontend (React) — React.js, REST API
 
 🔗 Live: http://biplab.intelsofts.com/react
@@ -136,8 +130,8 @@ Key Features:
 
 - Order summary calculations
 
-- Clean separation of frontend and backend logic
 
+<br />
 💳 Payoneer Clone — HTML, CSS, Bootstrap
 
 🔗 Live: http://biplab.intelsofts.com/payoneer
@@ -145,7 +139,7 @@ Key Features:
 Description:
 A Payoneer-style financial web application clone for learning and system design demonstration.
 
-
+<br />
 🧠 Technical Strengths
 
 - Enterprise-grade Laravel architecture
@@ -162,6 +156,7 @@ A Payoneer-style financial web application clone for learning and system design 
 
 - Scalable system design for growth
 
+<br />
 📫 Contact & Portfolio
 
 GitHub: https://github.com/biplabhosen
