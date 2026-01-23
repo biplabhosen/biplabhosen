@@ -35,9 +35,10 @@ Tools: Git, GitHub, Apache, Nginx, Linux
 - Implemented business workflows: invoicing, reservations, payments, and reporting
 
 <br />
-🚀 Featured Projects (Live)
 
+🚀 Featured Projects (Live)
 <br />
+
 🏨 Hotel Management System (SaaS) — Laravel, MySQL/PostgreSQL
 
 🔗 Live: http://biplab.intelsofts.com/hotel_management
