@@ -1,6 +1,6 @@
 Biplab Hosen
 
-Senior Full Stack Web Developer | Laravel, PHP, React, Vue.js | SaaS & ERP Systems
+Full Stack Web Developer | Laravel, PHP, React, Vue.js | SaaS & ERP Systems
 
 
 Full Stack Web Developer with hands-on experience building SaaS platforms, ERP systems, and business-critical web applications. Specialized in Laravel and modern JavaScript frameworks with strong expertise in system architecture, database design, and scalable multi-tenant applications. Proven ability to deliver production-grade systems used for real business operations.
