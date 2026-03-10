@@ -1,9 +1,8 @@
 Biplab Hosen
 
-Full Stack Web Developer | Laravel, PHP, React, Vue.js | SaaS & ERP Systems
+Full Stack Web Developer | Laravel, PHP, MySQL, React.js, Vue.js | SaaS & ERP Applications
 
-
-Full Stack Web Developer with hands-on experience building SaaS platforms, ERP systems, and business-critical web applications. Specialized in Laravel and modern JavaScript frameworks with strong expertise in system architecture, database design, and scalable multi-tenant applications. Proven ability to deliver production-grade systems used for real business operations.
+Full Stack Web Developer with hands-on experience building SaaS platforms, ERP systems, and dynamic web applications. Skilled in Laravel, PHP, MySQL, and modern JavaScript frameworks including React.js. Experienced in developing RESTful APIs and integrating frontend and backend systems to build scalable and maintainable applications used in real-world business environments. Passionate about clean architecture, maintainable code, and continuous learning in modern web development.
 
 <br />
 
@@ -39,7 +38,7 @@ Tools: Git, GitHub, Apache, Nginx, Linux
 🚀 Featured Projects (Live)
 <br />
 
-🏨 Hotel Management System (SaaS) — Laravel, MySQL/PostgreSQL
+🏨 Hotel Management System (SaaS) — Laravel, MySQL
 
 🔗 Live: http://biplab.intelsofts.com/hotel_management
 
